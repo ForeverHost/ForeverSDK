@@ -23,4 +23,4 @@ fi
 # Git операции
 git add -A
 git commit -m "$(echo -e "$full_message")"
-git push origin main 
+git push --force origin main 
