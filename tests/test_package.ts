@@ -1,4 +1,4 @@
-import ForeverSdk from "sdk.public";
+import ForeverSdk from "sdk.dev";
 
 async function test(): Promise<string> {
 	ForeverSdk.package.printVersion();
