@@ -13,7 +13,7 @@
     "moduleResolution": "node",
     "paths": {
       "~/*": ["src/*"],
-      "sdk.dev": ["dist/index"],
+      "sdk.dev": ["src/index"],
       "sdk.public": ["dist/index"]
     } 
   },
