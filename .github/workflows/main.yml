@@ -20,4 +20,5 @@ jobs:
       run: npm install
 
     - name: Run test * package
-      run: npx ts-node -r tsconfig-paths/register tests/test_package.ts
+      run: |
+        npx ts-node -r tsconfig-paths/register --project tsconfig.json tests/test_package.ts
