@@ -1,5 +1,5 @@
 {
-  "name": "@forever/sdk",
+  "name": "@foreverhost/sdk",
   "version": "1.0.0-alpha.1",
   "description": "Forever SDK",
   "main": "dist/index.js",
