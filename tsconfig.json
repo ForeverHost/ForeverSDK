@@ -12,7 +12,8 @@
     "forceConsistentCasingInFileNames": true,
     "moduleResolution": "node",
     "paths": {
-      "~/*": ["src/*"]
+      "~/*": ["src/*"],
+      "sdk.public": ["dist/index"]
     } 
   },
   "include": ["src"],
