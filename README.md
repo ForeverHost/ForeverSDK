@@ -1,0 +1,2 @@
+# ForeverSDK
+Forever SDK (TypeScript)
